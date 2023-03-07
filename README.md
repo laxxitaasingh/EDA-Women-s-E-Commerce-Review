@@ -4,14 +4,14 @@
 https://colab.research.google.com/drive/1uNgcQX5Ox3tb9XlBGSZK6r5g2BLTYRuE?usp=sharing
 
 
-##About Dataset
+About Dataset
 Women's E-Commerce Clothing Reviews on Kaggle
 
 Link Dataset:
 
 https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
-##Context
+Context
 
 Welcome. This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions. Because this is real commercial data, it has been anonymized, and references to the company in the review text and body have been replaced with “retailer”.
 
@@ -32,11 +32,11 @@ Class Name: Categorical name of the product class name.
 
 
 
-##The steps which we are going to follow are listed below
+The steps which we are going to follow are listed below
 
-Data Description
-Data Cleaning
-Data Pre-Processing
-Data Analysis
-Data visualization
-Data Modelling
+Data Description.
+Data Cleaning.
+Data Pre-Processing.
+Data Analysis.
+Data visualization.
+Data Modelling.
